@@ -1,5 +1,6 @@
 <div class="text-center alert alert-dark">
-    <h1 class="display-4">Leave Management System - SOLID and Clean Architecture</h1>
+    <h1 class="display-4">ASP.NET Core - SOLID and Clean Architecture (.NET 5 and up)
+</h1>
 </div>
 <div data-purpose="safely-set-inner-html:description:description">
     <p>
