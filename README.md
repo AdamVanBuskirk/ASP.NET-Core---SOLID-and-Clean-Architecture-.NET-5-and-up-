@@ -1,3 +1,25 @@
+
+Adam, 5/17/23
+Top-level Folder structure which didn't come into this repo:
+
+_ src
+__ API
+___ HR.LeaveManagement.Api
+__ Core
+___ HR.LeaveManagement.Application
+___ HR.LeaveManagement.Domain
+__ Infrastructure
+___ HR.LeaveManagement.Identity
+___ HR.LeaveManagement.Infrastructure
+___ HR.LeaveManagement.Persistence
+__ UI
+___ Project: HR.LeaveManagement.MVC
+
+- test
+-- HR.LeaveManagement.Application.UnitTests
+
+
+
 <div class="text-center alert alert-dark">
     <h1 class="display-4">ASP.NET Core - SOLID and Clean Architecture (.NET 5 and up)
 </h1>
